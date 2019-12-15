@@ -1,0 +1,25 @@
+/** Import Bootstrap functions */
+@import "~bootstrap/scss/functions";
+
+$theme-colors: (
+  primary: #525ddc
+);
+
+/** Bootstrap navbar fix (https://git.io/fADqW) */
+$navbar-dark-toggler-icon-bg: none;
+$navbar-light-toggler-icon-bg: none;
+
+/** Custom variables */
+$font__main : "Montserrat", sans-serif;
+$size__card_title : 24px;
+$size__card_description : 16px;
+$size__title : 48px;
+$weight_semi_bold : 700;
+$weight_light: 400;
+$size__title_page: 60px;
+
+// Slick Carousel font path
+$slick-font-path: "~slick-carousel/slick/fonts/";
+
+// Slick Carousel ajax-loader.gif path
+$slick-loader-path: "~slick-carousel/slick/";
