@@ -1,0 +1,41 @@
+.contactUs-page .contacts .phones {
+  display: flex;
+  align-items: center;
+  margin-bottom: 21px;
+  padding-left: 7px;
+
+  ul {
+    margin: 0;
+    list-style: none;
+    padding-left: 20px;
+
+    li {
+      color: #000;
+      font-family: $font__main;
+      font-size: 20px;
+      font-weight: $weight_semi_bold;
+    }
+  }
+}
+
+.contactUs-page .social-block {
+  font-family: $font__main;
+  font-size: 20px;
+  font-weight: $weight_semi_bold;
+
+  a {
+    color: black;
+
+    img {
+      padding-right: 14px;
+    }
+  }
+}
+
+.contactUs-page button {
+  padding: 10px 20px;
+}
+
+.contactUs-page .contacts {
+  padding-left: 40px;
+}

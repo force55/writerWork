@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cml_translations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-24 09:46+0100\n"
+"PO-Revision-Date: 2019-11-24 09:46+0100\n"
+"Last-Translator:   <force55595@gmail.com>\n"
+"Language-Team: \n"
+"Language: %LOCALE%\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: CeceppaMultilingua 1.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../inc\n"
+
+msgid "_uk_categories_uslugi_%d0%ba%d0%b0%d1%82%d0%b5%d0%b3%d0%be%d1%80%d0%b8%d1%8f-%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8-1"
+msgstr "Категория услуги 1 УКР"
+
+msgid "_en_categories_uslugi_%d0%ba%d0%b0%d1%82%d0%b5%d0%b3%d0%be%d1%80%d0%b8%d1%8f-%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8-1"
+msgstr "Категория услуги 1 EN"
+
+msgid "__cml_lang_1__9"
+msgstr "a:5:{s:2:\"ru\";s:1:\"9\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:1:\"9\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__22"
+msgstr "a:5:{s:2:\"ru\";s:2:\"22\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"22\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__14"
+msgstr "a:5:{s:2:\"ru\";s:2:\"14\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"14\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__119"
+msgstr "a:5:{s:2:\"ru\";s:3:\"119\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"119\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__126"
+msgstr "a:5:{s:2:\"ru\";s:3:\"126\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"126\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__15"
+msgstr "a:5:{s:2:\"ru\";s:2:\"15\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"15\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__120"
+msgstr "a:5:{s:2:\"ru\";s:3:\"120\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"120\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__127"
+msgstr "a:5:{s:2:\"ru\";s:3:\"127\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"127\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__16"
+msgstr "a:5:{s:2:\"ru\";s:2:\"16\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"16\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__17"
+msgstr "a:5:{s:2:\"ru\";s:2:\"17\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"17\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__18"
+msgstr "a:5:{s:2:\"ru\";s:2:\"18\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"18\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__19"
+msgstr "a:5:{s:2:\"ru\";s:2:\"19\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"19\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__121"
+msgstr "a:5:{s:2:\"ru\";s:3:\"121\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"121\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__122"
+msgstr "a:5:{s:2:\"ru\";s:3:\"122\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"122\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__123"
+msgstr "a:5:{s:2:\"ru\";s:3:\"123\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"123\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__124"
+msgstr "a:5:{s:2:\"ru\";s:3:\"124\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"124\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__128"
+msgstr "a:5:{s:2:\"ru\";s:3:\"128\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"128\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__129"
+msgstr "a:5:{s:2:\"ru\";s:3:\"129\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"129\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__130"
+msgstr "a:5:{s:2:\"ru\";s:3:\"130\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"130\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__131"
+msgstr "a:5:{s:2:\"ru\";s:3:\"131\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"131\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__47"
+msgstr "a:5:{s:2:\"ru\";s:2:\"47\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"47\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__46"
+msgstr "a:5:{s:2:\"ru\";s:2:\"46\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"46\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__115"
+msgstr "a:5:{s:2:\"ru\";s:3:\"115\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"115\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__49"
+msgstr "a:5:{s:2:\"ru\";s:2:\"49\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"49\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__48"
+msgstr "a:5:{s:2:\"ru\";s:2:\"48\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"48\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__55"
+msgstr "a:5:{s:2:\"ru\";s:2:\"55\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"55\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__101"
+msgstr "a:5:{s:2:\"ru\";s:3:\"101\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"101\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__8"
+msgstr "a:5:{s:2:\"ru\";s:1:\"8\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:1:\"8\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__27"
+msgstr "a:5:{s:2:\"ru\";s:2:\"27\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"27\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__34"
+msgstr "a:5:{s:2:\"ru\";s:2:\"34\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"34\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__118"
+msgstr "a:5:{s:2:\"ru\";s:3:\"118\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"118\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__125"
+msgstr "a:5:{s:2:\"ru\";s:3:\"125\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"125\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__37"
+msgstr "a:5:{s:2:\"ru\";s:2:\"37\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"37\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__74"
+msgstr "a:5:{s:2:\"ru\";s:2:\"74\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"74\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__81"
+msgstr "a:5:{s:2:\"ru\";s:2:\"81\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"81\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__92"
+msgstr "a:5:{s:2:\"ru\";s:2:\"92\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"92\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__72"
+msgstr "a:5:{s:2:\"ru\";s:2:\"72\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"72\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__78"
+msgstr "a:5:{s:2:\"ru\";s:2:\"78\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"78\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__89"
+msgstr "a:5:{s:2:\"ru\";s:2:\"89\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"89\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__102"
+msgstr "a:5:{s:2:\"ru\";s:3:\"102\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"102\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__106"
+msgstr "a:5:{s:2:\"ru\";s:3:\"106\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"106\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__80"
+msgstr "a:5:{s:2:\"ru\";s:2:\"80\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"80\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__91"
+msgstr "a:5:{s:2:\"ru\";s:2:\"91\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"91\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__36"
+msgstr "a:5:{s:2:\"ru\";s:2:\"36\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"36\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__73"
+msgstr "a:5:{s:2:\"ru\";s:2:\"73\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"73\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__75"
+msgstr "a:5:{s:2:\"ru\";s:2:\"75\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"75\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__79"
+msgstr "a:5:{s:2:\"ru\";s:2:\"79\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"79\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__90"
+msgstr "a:5:{s:2:\"ru\";s:2:\"90\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"90\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__41"
+msgstr "a:5:{s:2:\"ru\";s:2:\"41\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"41\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__42"
+msgstr "a:5:{s:2:\"ru\";s:2:\"42\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"42\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__20"
+msgstr "a:5:{s:2:\"ru\";s:2:\"20\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"20\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__24"
+msgstr "a:5:{s:2:\"ru\";s:2:\"24\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"24\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__82"
+msgstr "a:5:{s:2:\"ru\";s:2:\"82\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"82\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__93"
+msgstr "a:5:{s:2:\"ru\";s:2:\"93\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"93\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__35"
+msgstr "a:5:{s:2:\"ru\";s:2:\"35\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"35\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__100"
+msgstr "a:5:{s:2:\"ru\";s:3:\"100\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"100\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__1"
+msgstr "a:5:{s:2:\"ru\";s:1:\"1\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:1:\"1\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__2"
+msgstr "a:5:{s:2:\"ru\";s:1:\"2\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:1:\"2\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__88"
+msgstr "a:5:{s:2:\"ru\";s:2:\"88\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"88\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__38"
+msgstr "a:5:{s:2:\"ru\";s:2:\"38\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"38\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__57"
+msgstr "a:5:{s:2:\"ru\";s:2:\"57\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"57\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__109"
+msgstr "a:5:{s:2:\"ru\";s:3:\"109\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:3:\"109\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__66"
+msgstr "a:5:{s:2:\"ru\";s:2:\"66\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"66\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__67"
+msgstr "a:5:{s:2:\"ru\";s:2:\"67\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"67\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__43"
+msgstr "a:5:{s:2:\"ru\";s:2:\"43\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"43\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__64"
+msgstr "a:5:{s:2:\"ru\";s:2:\"64\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"64\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__50"
+msgstr "a:5:{s:2:\"ru\";s:2:\"50\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"50\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__51"
+msgstr "a:5:{s:2:\"ru\";s:2:\"51\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"51\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__60"
+msgstr "a:5:{s:2:\"ru\";s:2:\"60\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"60\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__61"
+msgstr "a:5:{s:2:\"ru\";s:2:\"61\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"61\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__62"
+msgstr "a:5:{s:2:\"ru\";s:2:\"62\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"62\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__56"
+msgstr "a:5:{s:2:\"ru\";s:2:\"56\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"56\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__52"
+msgstr "a:5:{s:2:\"ru\";s:2:\"52\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"52\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__77"
+msgstr "a:5:{s:2:\"ru\";s:2:\"77\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"77\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__99"
+msgstr "a:5:{s:2:\"ru\";s:2:\"99\";s:2:\"uk\";s:1:\"0\";s:2:\"en\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"ru\";s:2:\"99\";}s:6:\"linked\";a:0:{}}"
+
+msgid "_cml_menu_meta_en_8"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_8"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_en_9"
+msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_9"
+msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_en_14"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_14"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_en_15"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_15"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_en_16"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_16"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_en_17"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_17"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_en_18"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_18"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_en_19"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_19"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_en_22"
+msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_uk_22"
+msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+

@@ -1,0 +1,48 @@
+.cml-flag-tiny-ru:before {
+    content: url(../flags/tiny/ru_RU.png);
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.cml-flag-tiny-uk:before {
+    content: url(../flags/tiny/uk_UA.png);
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.cml-flag-tiny-en:before {
+    content: url(../flags/tiny/en_US.png);
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.cml-flag-small-ru:before {
+    content: url(../flags/small/ru_RU.png);
+    width: 32px;
+    height: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.cml-flag-small-uk:before {
+    content: url(../flags/small/uk_UA.png);
+    width: 32px;
+    height: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.cml-flag-small-en:before {
+    content: url(../flags/small/en_US.png);
+    width: 32px;
+    height: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}

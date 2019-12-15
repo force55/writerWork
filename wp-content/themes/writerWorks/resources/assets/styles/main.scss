@@ -1,0 +1,75 @@
+@import "common/variables";
+
+/** Import everything from autoload */
+@import "./autoload/**/*";
+
+/**
+ * Import npm dependencies
+ *
+ * Prefix your imports with `~` to grab from node_modules/
+ * @see https://github.com/webpack-contrib/sass-loader#imports
+ */
+// @import "~some-node-module";
+
+/** Import theme styles */
+@import "common/global";
+@import "common/fonts";
+@import "components/buttons";
+@import "components/comments";
+@import "components/forms";
+@import "components/wp-classes";
+@import "layouts/header";
+@import "layouts/sidebar";
+@import "layouts/footer";
+@import "layouts/pages";
+@import "layouts/posts";
+@import "layouts/tinymce";
+@import "layouts/frontPage";
+@import "layouts/archiveUslugi";
+@import "layouts/oplataGarantia";
+@import "layouts/contactUs";
+@import "layouts/reviews";
+@import "layouts/modal";
+@import "~slick-carousel/slick/slick.scss";
+@import "~slick-carousel/slick/slick-theme.scss";
+
+.test {
+  font-size: 50px;
+}
+
+.custom-page h1 {
+  color: #711e06;
+  font-family: $font__main;
+  font-size: $size__title_page;
+  font-weight: $weight_semi_bold;
+  position: relative;
+  padding-left: 30px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+
+  &::before {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 8px;
+    left: 0;
+    background-color: #711e06;
+  }
+}
+
+.button-red {
+  display: flex;
+  margin: 70px auto;
+  box-shadow: 0 0 10px #711e06;
+  border-radius: 29px;
+  background-color: #711e06;
+  color: #fff;
+  font-family: $font__main;
+  font-size: 14px;
+  font-weight: $weight_semi_bold;
+}
+
+.button-left {
+  margin-left: 0;
+  margin-right: 0;
+}
